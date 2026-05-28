@@ -1,0 +1,1 @@
+summon a level 20 character, roll a d12, for 1 minute. roll a 5 or 6 on a d6 each dawn to recharge

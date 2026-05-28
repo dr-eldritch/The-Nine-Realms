@@ -1,0 +1,3 @@
+Datavault and Bank and Graveyard in one, the Vault is a massive structure in the centre of the city. It stores souls of the dead, charging families for the service. Their flagship product, [[YOUtopia]], allows the dead to live full afterlives in serene simulated bliss for the rest of their unlife. 
+
+When Younique gets to the Vault they will find a copy of Ophelia in it. THey will have the option to upload her into their own body, potentially wiping themselves completely.

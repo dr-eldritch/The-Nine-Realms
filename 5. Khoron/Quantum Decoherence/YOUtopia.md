@@ -1,0 +1,1 @@
+The promise of YOUtopia allowed [[YOUcorp]] to manoeuvre their way into the position of de facto government, buying out government officials until they controlled the station. They began spreading, building branches in other stations.

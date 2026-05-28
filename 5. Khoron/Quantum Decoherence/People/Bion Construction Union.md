@@ -1,0 +1,3 @@
+The BCU is led by a gaunt man whose name is Danell Paarsi. They have been for the past 3 months striking, refusing to work for RoBoCo (the makers of Bions) because of pay disputes. 
+
+[[Danell Paarsi]] wants the strikes over ASAP as he is being paid off by [[Steffanie Holtz]], CFO of RoBoCo. However, the Bions went on counter-strike, coordinated by Autarkis. Therefore he and Steffanie conspired to assassinate [[YOUnique Snow]].

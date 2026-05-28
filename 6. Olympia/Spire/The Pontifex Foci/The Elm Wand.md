@@ -1,0 +1,1 @@
+Cast disintegrate at target, +9 to hit.

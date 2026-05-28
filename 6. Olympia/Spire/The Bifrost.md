@@ -1,0 +1,1 @@
+The Bifrost allows transport rapidly up and down Spire, collecting and depositing goods and people. It is an axial gravimetric tractor system powered by EM.

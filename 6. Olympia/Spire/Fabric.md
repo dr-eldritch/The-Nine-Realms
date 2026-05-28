@@ -1,0 +1,1 @@
+Spire is made at its base of Fabric, a gravity-bending material which allows gravity to always be perpendicular to the surface of Spire. The gravity gets weaker and weaker towards the tip until there is no more Fabric and no more Spire.

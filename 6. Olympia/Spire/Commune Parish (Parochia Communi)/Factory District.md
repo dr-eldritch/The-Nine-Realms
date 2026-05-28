@@ -1,0 +1,3 @@
+The Factory District is where the vast majority of the population of Spire live, working the factories to produce esoteric and arcane devices, and in the hydroponic fields to produce food, for sale to other parts of Olympia and beyond. The residents are oft-considered the 'middle class' of Spire, though only by virtue of being between the super-rich and those in abject poverty.
+
+Key Locations: Hydroponics Farm LIV, 

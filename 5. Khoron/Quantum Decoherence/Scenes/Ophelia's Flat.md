@@ -1,0 +1,1 @@
+Ophelia left You a cache of scientific papers which had been suppressed, studies for which the funding was pulled, algorithmic preferences in search engine code (for new articles which display psychography more favourably) - it was all there, if You could put it together.

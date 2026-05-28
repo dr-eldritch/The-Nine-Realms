@@ -1,0 +1,1 @@
+The Olympian Navy are a space force which use Spire and the moons of Olympia to project force across the whole outer system. It is powered by EM harvested by the harvesters at the bottom of Spire and at other locations.

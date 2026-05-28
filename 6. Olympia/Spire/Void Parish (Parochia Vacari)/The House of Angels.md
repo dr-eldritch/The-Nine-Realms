@@ -1,0 +1,1 @@
+The House of Angels is the principal seat of government in Spire. It is where the Pontifices and priests sit to determine laws. It is at the highest point of the Void Parish so as to remind as closely 'in contact' with the Solars as possible.

@@ -1,0 +1,1 @@
+Psychography is the tech allegedly used by the Vault Corporation to record and store a Khori soul. It was partially debunked by [[Ophelia Rose from the Snow]] and [[YOUnique Snow]] Snow. in 12,275. 

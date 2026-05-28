@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"c9c9e7e6bda88b04","type":"text","text":"[[The Workshop]]","x":-140,"y":-500,"width":250,"height":60},
+		{"id":"e167ee6eaae9ade4","type":"text","text":"[[RoBoCo HQ]]","x":-540,"y":-220,"width":250,"height":60},
+		{"id":"8cb6c3aaab1c903e","type":"text","text":"[[The Square]]","x":240,"y":-220,"width":250,"height":60},
+		{"id":"b9174ef85a858243","type":"text","text":"[[BCU HQ]]","x":-140,"y":40,"width":250,"height":60},
+		{"id":"2bacb229f9bcf225","type":"text","text":"[[The Workshop]] w/ Yigor","x":-595,"y":830,"width":250,"height":60},
+		{"id":"62cc68b6f4153c1f","type":"text","text":"YOUtopia","x":-140,"y":1260,"width":250,"height":60},
+		{"id":"696d0e96779c63ef","type":"text","text":"[[The Vault]]","x":-140,"y":1000,"width":250,"height":60},
+		{"id":"5031f7b6be3a8d6c","type":"text","text":"[[Ophelia's Safehouse]]","x":310,"y":830,"width":250,"height":60},
+		{"id":"23a7d44cc67be67c","type":"text","text":"[[Ophelia's Flat]]","x":-720,"y":440,"width":250,"height":60},
+		{"id":"00f7d77d81f36d71","type":"text","text":"[[Card Counter Cartel]]","x":435,"y":440,"width":250,"height":60},
+		{"id":"302cc6b7570a3349","type":"text","text":"[[Autarkis HQ]]","x":115,"y":285,"width":250,"height":60},
+		{"id":"89c4202ed1d55679","type":"text","text":"[[YOUcorp]]","x":-415,"y":285,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"8f80125de295ffc0","fromNode":"c9c9e7e6bda88b04","fromSide":"right","toNode":"8cb6c3aaab1c903e","toSide":"top"},
+		{"id":"43b030117944cf75","fromNode":"c9c9e7e6bda88b04","fromSide":"left","toNode":"e167ee6eaae9ade4","toSide":"top"},
+		{"id":"fe73a66c990fed9e","fromNode":"c9c9e7e6bda88b04","fromSide":"bottom","toNode":"b9174ef85a858243","toSide":"top"},
+		{"id":"fe6c98d802e34947","fromNode":"8cb6c3aaab1c903e","fromSide":"bottom","toNode":"00f7d77d81f36d71","toSide":"top","label":"Blue King\ncard"},
+		{"id":"48a4e3b2c435fc17","fromNode":"e167ee6eaae9ade4","fromSide":"bottom","toNode":"23a7d44cc67be67c","toSide":"top","label":"Ophelia's\naddress"},
+		{"id":"7effa53279dc0f09","fromNode":"e167ee6eaae9ade4","fromSide":"bottom","toNode":"89c4202ed1d55679","toSide":"top","label":"Parent\nCorp"},
+		{"id":"1267eddb576c0ec3","fromNode":"b9174ef85a858243","fromSide":"bottom","toNode":"89c4202ed1d55679","toSide":"top","label":"RoBoCo \nParent Corp"},
+		{"id":"88f3093d1b920662","fromNode":"8cb6c3aaab1c903e","fromSide":"bottom","toNode":"302cc6b7570a3349","toSide":"top","label":"Someone \nwatching"},
+		{"id":"68956fa7cc1b5102","fromNode":"b9174ef85a858243","fromSide":"bottom","toNode":"302cc6b7570a3349","toSide":"top","label":"Informant\nin BCU"},
+		{"id":"96c9781b98f48f92","fromNode":"23a7d44cc67be67c","fromSide":"bottom","toNode":"2bacb229f9bcf225","toSide":"left","label":"Clues left for You"},
+		{"id":"6d071b50f2b24400","fromNode":"302cc6b7570a3349","fromSide":"bottom","toNode":"2bacb229f9bcf225","toSide":"top","label":"Yigor hiding at\nAutarkis"},
+		{"id":"a041c4a82ef52af3","fromNode":"89c4202ed1d55679","fromSide":"bottom","toNode":"5031f7b6be3a8d6c","toSide":"top","label":"YOUcorp\nscouts"},
+		{"id":"905836320ceb719b","fromNode":"00f7d77d81f36d71","fromSide":"bottom","toNode":"5031f7b6be3a8d6c","toSide":"right","label":"CCC after You"},
+		{"id":"484ccbf5f1036cd8","fromNode":"696d0e96779c63ef","fromSide":"bottom","toNode":"62cc68b6f4153c1f","toSide":"top"},
+		{"id":"9ddb7c2f99801395","fromNode":"2bacb229f9bcf225","fromSide":"bottom","toNode":"696d0e96779c63ef","toSide":"top"},
+		{"id":"6d288d9aebec6fd4","fromNode":"5031f7b6be3a8d6c","fromSide":"bottom","toNode":"696d0e96779c63ef","toSide":"top"},
+		{"id":"04333b64c8e1d0d3","fromNode":"302cc6b7570a3349","fromSide":"bottom","toNode":"5031f7b6be3a8d6c","toSide":"top","label":"Autarkis\nConfidant"},
+		{"id":"610c0b77281de1d4","fromNode":"89c4202ed1d55679","fromSide":"bottom","toNode":"2bacb229f9bcf225","toSide":"top","label":"YOUcorpers looking\nfor Yigor"},
+		{"id":"a9ee88d3840fed25","fromNode":"23a7d44cc67be67c","fromSide":"bottom","toNode":"5031f7b6be3a8d6c","toSide":"left","label":"Address inside \nhidden drawer"},
+		{"id":"cba5e84ef6f8508f","fromNode":"00f7d77d81f36d71","fromSide":"bottom","toNode":"2bacb229f9bcf225","toSide":"right","label":"CCC after Yigor"}
+	]
+}
