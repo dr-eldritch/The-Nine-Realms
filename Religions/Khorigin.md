@@ -1,0 +1,1 @@
+The Khori people were created around 10,000 years ago by an immortal human named Khorigin. Ever since, they have worshipped him as a creator and shepherd god.
