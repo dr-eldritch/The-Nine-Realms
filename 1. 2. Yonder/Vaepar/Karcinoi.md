@@ -1,0 +1,1 @@
+Karcinoi are crablike creatures which strip the Godfalls

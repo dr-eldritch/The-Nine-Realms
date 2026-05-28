@@ -1,0 +1,1 @@
+The Inflaroi are a bioengineered whale-like blimp species who are able to traverse the tropopause and travel for long distances above it. They treat with Pteroi for artworks and curios in exchange for their services carrying goods long distances.

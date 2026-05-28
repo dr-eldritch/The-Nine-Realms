@@ -1,0 +1,5 @@
+Vaeparian geoengineering has created a low-altitude artificial reverse greenhouse layer, which prevents too much heat from getting into the troposphere to make it liveable; however it causes water above a certain altitude to be superheated. In any high-altitude cloud layer, sharp changes in land temperature or topography (e.g. mountains) causes this superheated water comes below the reverse greenhouse layer and becomes hot rain, which dissolves the rock and scorches the land. As the superheated water cools, the dissolved minerals crystallised out of the solution and create large canyons of layered minerals, eventually depositing the most soluble minerals in massive salt pans on the coast, or in shallow salty seas.
+
+This process has been ongoing for millions of years, and this in combination with the slowed tectonics has turned most of the land into the following structure:
+
+Mountains > canyonlands > rainforest > salt pan / floodplain > shallow hot ocean
