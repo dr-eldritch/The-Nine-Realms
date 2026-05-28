@@ -1,0 +1,1 @@
+Two-thirds of the planet is covered in the Wildsea, never crossed since the Verdant.  

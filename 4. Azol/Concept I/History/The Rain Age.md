@@ -1,0 +1,1 @@
+For one thousand years the Rain Age drenched the lands and caused the sea levels of the Polari Lagoon to rise and cover 95% of Azol.

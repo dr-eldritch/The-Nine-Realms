@@ -1,0 +1,3 @@
+Mothryn - Anchored - Navigator
+
+Memories of their past life are patchy, they remember sailing the wildsea, being part of a large ship crew with other Mothryn (perhaps their clan?) but it becomes hazy when they think about the past. For their anchor to the material world, its a compass, linking to their love for exploration. They dream of exploring the wildsea, finding new lands and sights. They hope to remember more about their family and past life but fear it is a story with a sad end. They have a Tolycat companion named Pepper.

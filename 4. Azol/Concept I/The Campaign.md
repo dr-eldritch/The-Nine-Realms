@@ -1,0 +1,1 @@
+The players are the descendants of those original pirates, [[The Oneshot PCs]], in a world where the Miasma has infested the whole planet. There are safe havens connected by the Azolla Veins

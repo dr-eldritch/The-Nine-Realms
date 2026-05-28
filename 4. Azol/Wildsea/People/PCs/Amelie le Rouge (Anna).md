@@ -1,0 +1,3 @@
+Mothryn - Spit-born - Mesmer
+
+Amelie had always loved to climb trees and forced to climb ladders (social ones, that is). She grew up in a wealthy family, with distant, yet loving parents. Her upbringing means that she understands the importance of etiquette, and can adapt easily to other societies' social norms. However, it also means that she has few skills in things useful to a seafaring crew, she has to learn how to tie a knot and not embroider.

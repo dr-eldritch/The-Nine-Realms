@@ -1,0 +1,1 @@
+There are mesas on the Cydonian Plain where once the grand empire set its capital. They are the buried remnants of giant warrior cyborg suits, with [[The Face]] being mythologised as the prominent head of the final Monarch of [[Cydonia]]'s personal suit.

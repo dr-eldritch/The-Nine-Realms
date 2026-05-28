@@ -1,0 +1,1 @@
+Olympus was the last bastion of humanity during the Rain Age, but became something of a mythological tale when the Azolla Event occurred.

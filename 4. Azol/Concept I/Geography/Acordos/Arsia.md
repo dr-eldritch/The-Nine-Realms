@@ -1,0 +1,1 @@
+The continent of Acordos is split into two countries and a [[DMZ]]. Arsia (Ar-zha) has been the historically dominant country on the continent, though the Acordian Alps split the country that a collection of minor mountain states were able to keep them at bay. The other country is [[Pavonis]], which grew from an accord

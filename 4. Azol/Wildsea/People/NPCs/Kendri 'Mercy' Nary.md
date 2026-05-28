@@ -1,0 +1,2 @@
+Kendri Nary was the first and most (in)famous of the Wildsailor captains, setting up the Mercy Company in her name. The nickname was originally intended ironically because of her extremely high standards and penchant for throwing stowaways and lackadoos to the pinwolves. However, she embraced it and set up the company in her latter years, before sailing off into the Wildsea in the first ever attempted circumnavigation of Azol.
+

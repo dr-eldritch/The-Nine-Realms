@@ -1,0 +1,1 @@
+The Green are a class of creatures infected by [[The Miasma]] and transformed into rabid and twisted mutations.

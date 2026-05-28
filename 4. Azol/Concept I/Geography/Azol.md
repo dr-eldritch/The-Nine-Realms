@@ -1,0 +1,1 @@
+Azol is the name of the ocean world where the Azolla and Miasma compete for dominance, and humanity scratches a living from the remains.

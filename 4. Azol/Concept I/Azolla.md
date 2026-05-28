@@ -1,0 +1,1 @@
+Azolla is a fern which produces massive amounts of O2 and neutralises the Miasma spores, so named for how it reopened the world of Azol to humanity.

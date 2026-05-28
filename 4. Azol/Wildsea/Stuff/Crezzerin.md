@@ -1,0 +1,1 @@
+Crezzerin is a self-replicating mutagenic substance designed by [[The Crez]] to terraform Azol after they left Eden in search of a home. It has been theior chief weapon against the [[Cydonians]]. It can mutate trees, mammals and insects into much larger and more fearsome versions.

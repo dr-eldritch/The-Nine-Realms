@@ -1,0 +1,1 @@
+The Heart Cities are a growing power on Azol, ex-nomads who settled where the Azolla Veins met to form great blooms of breathable air. 

@@ -1,0 +1,1 @@
+Kreggs is the tzelicrae proprietor of the SpagJunc. He is a master chef who specialises in pasta, and is somehow distributed across all instances of SpagJunc. 

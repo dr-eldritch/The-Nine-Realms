@@ -1,0 +1,1 @@
+The Prophetic Tome is a Tome which, if studied carefully, reveals the future. However, it ages the user by the amount into the future that is seen.

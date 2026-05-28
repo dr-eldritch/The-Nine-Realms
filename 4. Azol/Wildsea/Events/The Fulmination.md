@@ -1,0 +1,3 @@
+When it seemed like the [[Knights of Cydonia]] would lose Azol to the Crez, they convened a war council and decided upon a course of action known as the Fulmination. 
+
+The bearer of the charge acceptor Ikon (the auxite disc) gathered charge to the [[Fulminating Bolt]] and released it all at once by fracturing the charge donor Ikon, a jagged lightning-bolt auxite staff. The bolt atomised but its power remained, slowly spreading across the atmosphere and raining down into the soil, and, after hundreds of years it popped up in the biosphere of Azol, creating creatures that can bend charge to their will.

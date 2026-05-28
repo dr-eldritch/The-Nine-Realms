@@ -1,0 +1,1 @@
+Olym City is the centre of the world of Azol. It is sat in the basin, lava tubes and old magma chamber of Mount Olym, once home to the gods of the old world. Now it acts as the only safe port in a world of hypercanes and world-forest. 

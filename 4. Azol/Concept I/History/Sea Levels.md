@@ -1,0 +1,1 @@
+Sea levels on Azol are high, so much so that no piece of land is more than 100km from the ocean. This occurred in the thousands of years since the Shattering and the Rain Age.
