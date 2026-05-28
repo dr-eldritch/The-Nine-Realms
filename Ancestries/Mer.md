@@ -1,0 +1,1 @@
+The Mer are an aquatic people who evolved in the Polari lagoon, isolated from the Miasma's poisonous touch. Since the Azolla Event, they have spread across the world, and are a founding backbone of the Syri Empire. They can breathe pure water indefinitely.

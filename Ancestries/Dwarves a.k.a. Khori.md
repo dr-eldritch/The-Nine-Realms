@@ -1,0 +1,5 @@
+Dwarves trace their ancestry back to Khoron (the Rust Belt), back when it was the Steel Belt, a glittering beacon of their prowess in metallurgy and construction, a single unbroken chain of structure surrounding the inner planes. They had many names for it, including the Steel Belt, the Steel Band, the World Chain, the Ringworld, the Bracelet of God, the Crownlands. Now it lies in ruins after it was the front line in a brutal war between inner and outer planes. Most dwarves emigrated after the war, though a fair few remained behind to try and reclaim Khoron's former glory.
+
+Tarn are an Azollian version of dwarves. They are a people wholly unaffected by the Miasma in both air and water. Their internal body temperature is so high that the amoeba cannot survive inside it. They are characterised by their fiery red hair.
+
+Khori have a special type of analytic mind which leads them to be excellent engineers. They also have a form of echolocation which can be used as short-range seismology.

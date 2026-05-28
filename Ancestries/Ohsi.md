@@ -1,0 +1,1 @@
+Ohsi are humanoids who can become invisible so long as they can hold their breath. They originally come from the foul experiments of the old Acordian Empire. They are used as operatives to assassinate and infiltrate. When visible, they have dusty blonde hair.

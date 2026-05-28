@@ -1,0 +1,1 @@
+Humans are a rarity anywhere but Ord nowadays, the ancient precursor race mostly having diversified into the known ancestries or ascended to immortality. A few humans remain, incredibly long-lived and known for their persistence.

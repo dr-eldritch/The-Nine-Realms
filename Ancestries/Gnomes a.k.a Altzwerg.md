@@ -1,0 +1,1 @@
+Gnomes, like dwarves/Khori, claim to be the original dwarven clan. Appearing around the same time as the Khori, they have a militant and strict matriarchal society, they even call themselves "old dwarf" in their own tongue.
