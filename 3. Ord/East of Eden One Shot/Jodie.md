@@ -1,0 +1,1 @@
+Jodie is the camp counsellor taking the kids on their hike. She is replaced by a teratomorph when the kids sneak out to look at the meteorite. This means there are 2 teratomorphs. 

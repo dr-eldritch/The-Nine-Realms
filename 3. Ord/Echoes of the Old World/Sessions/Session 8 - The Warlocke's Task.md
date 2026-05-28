@@ -1,0 +1,1 @@
+The party has chartered an obelisk barge and taken it to Berken, and agreed to retrieve the Captain's sister's (Gertrude) remains in exchange for use of the family warlocke's transfer circle. 

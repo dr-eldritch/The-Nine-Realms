@@ -1,0 +1,3 @@
+Divine magic is a way for the 'gods' to access computational power by distributing the processing across the humanoids using the magic, transmitting the power (of which they have a surplus and a monopoly) required to perform the 'magic' back to the surface in return.
+
+Once the humanoids regain access to their own computational power (e.g. by losing access to the connection to the gods), Lodestars gain the capability to once again shape reality.

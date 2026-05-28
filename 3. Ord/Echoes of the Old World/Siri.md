@@ -1,0 +1,3 @@
+Siri, the Lodestar, is the exhaust plume of a massive generation ship sent from Ord many millennia prior. The light it shines on Ord is a perfectly collimated beam of x-rays redshifted into visible light, produced by the ship's [[Divine Magic]] drive. The drive computes solutions to complex spatial transformations then uses antimatter synthesis to power these transformations.
+
+The Lodestar has been present for all of recorded history. It is slowly getting redder also. Though it will soon disappear because of the spread of the Deepness.

@@ -1,0 +1,5 @@
+The Deepness is a bright iridescent cloud spreading from the north pole of Ord towards the south, occluding and outshining the Zodi as it goes. It has been doing so for hundreds of years, but only recently has it approached the continent of Antar, the last remaining populated continent on the plane, from across the Antar Ocean.
+
+The Deepness was originally a soul-capture project to use human minds to power a shield around the world to prevent the humans from being exploited by the divine powers. It was an invisible net around Ord patrolled by agents of the gods and Arcanists alike. It was created at the North Pole of Ord by the Arcanist faction at the end of the Seventh Holy War.
+
+The Deepness now covers almost all of the sky, with only the Lodestar Siri remaining at the pole. Only Siri's agent, Ostra, remains to keep back the hordes of souls in the Deepness. When it fully covers the sky, who knows what will occur?

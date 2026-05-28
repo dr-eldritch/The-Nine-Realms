@@ -1,0 +1,1 @@
+Beast is a teratomorph, sent as a baby from a dying colony of Eden to survive the colony's destruction. Their parents still have the planar transport device used to slingshot Beast across the planes.

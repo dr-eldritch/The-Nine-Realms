@@ -1,0 +1,1 @@
+Teratomorphs are highly versatile creatures, with biotech so advanced they can modify their own bodies to suit almost any purpose. They can mimic anyone, 
